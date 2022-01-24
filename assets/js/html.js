@@ -1,0 +1,1 @@
+document.querySelector('code#html-js').innerHTML = 'js/test.js from HTML'

@@ -5,3 +5,5 @@ draft: true
 ---
 
 Hello world
+
+{{< hello-world >}}

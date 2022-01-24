@@ -1,0 +1,4 @@
+<code id="shortcode-js" style="padding: 10px; background: palegoldenrod"></code>
+
+{{ $js := resources.Get "js/shortcode.js" | js.Build }}
+<script src="{{ $js.RelPermalink }}"></script> 

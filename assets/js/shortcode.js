@@ -1,0 +1,1 @@
+document.querySelector('code#shortcode-js').innerHTML = 'js/test.js from shortcode'
